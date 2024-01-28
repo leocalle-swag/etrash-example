@@ -1,10 +1,9 @@
 per avviare il progetto
-uvicorn main:app --reload
+scaricare le libreria necessarie.
 
+Poi
+su un terminale:
+uvicorn server_motore:app --reload
 
-
-uvicorn server:app --reload
-
-
-aprire altro terminale
-python3 client.py
+su un altro terminale
+python3 client_sensore.py
