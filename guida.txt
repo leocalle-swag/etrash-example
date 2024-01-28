@@ -1,0 +1,10 @@
+per avviare il progetto
+uvicorn main:app --reload
+
+
+
+uvicorn server:app --reload
+
+
+aprire altro terminale
+python3 client.py
