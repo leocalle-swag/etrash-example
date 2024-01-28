@@ -1,5 +1,7 @@
 per avviare il progetto
-scaricare le libreria necessarie.
+scaricare le libreria necessarie pip install -r requirements.txt
+ps: all'interno del file requirements.txt ve ne sono piú del dovuto, fa niente.
+
 
 Poi
 su un terminale:
